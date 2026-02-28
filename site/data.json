@@ -2375,6 +2375,15 @@
       "type": "Padel",
       "url": "https://www.strava.com/activities/17432865160",
       "year": 2026
+    },
+    {
+      "date": "2026-02-28",
+      "hour": 14,
+      "name": "Padel dans l\u2019apr\u00e8s-midi",
+      "subtype": "Padel",
+      "type": "Padel",
+      "url": "https://www.strava.com/activities/17553491252",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4609,6 +4618,15 @@
           "distance": 2402.9,
           "elevation_gain": 0.0,
           "moving_time": 6952.0
+        },
+        "2026-02-28": {
+          "activity_ids": [
+            "17553491252"
+          ],
+          "count": 1,
+          "distance": 2298.2,
+          "elevation_gain": 0.0,
+          "moving_time": 2791.0
         }
       },
       "Run": {
@@ -4705,7 +4723,7 @@
       }
     }
   },
-  "generated_at": "2026-02-27T15:33:41.470701+00:00",
+  "generated_at": "2026-02-28T15:17:25.142580+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/104804543",
   "repo": "DanyNaumann/git-sweaty",
