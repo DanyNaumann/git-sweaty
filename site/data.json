@@ -2393,6 +2393,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17605437514",
       "year": 2026
+    },
+    {
+      "date": "2026-03-10",
+      "hour": 22,
+      "name": "Easy run 50min",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17678453037",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4737,11 +4746,20 @@
           "distance": 6073.7,
           "elevation_gain": 5.1,
           "moving_time": 2445.0
+        },
+        "2026-03-10": {
+          "activity_ids": [
+            "17678453037"
+          ],
+          "count": 1,
+          "distance": 7409.7,
+          "elevation_gain": 37.8,
+          "moving_time": 2981.0
         }
       }
     }
   },
-  "generated_at": "2026-03-10T15:55:58.648860+00:00",
+  "generated_at": "2026-03-11T15:42:44.532387+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/104804543",
   "repo": "DanyNaumann/git-sweaty",
