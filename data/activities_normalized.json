@@ -3469,5 +3469,44 @@
     "start_date_local": "2026-03-10T22:24:37Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-15",
+    "distance": 20.1,
+    "elevation_gain": 0.0,
+    "id": "17732359859",
+    "moving_time": 9.0,
+    "name": "Tennis dans l'apr\u00e8s-midi",
+    "raw_activity_type": "Workout",
+    "raw_type": "Tennis",
+    "start_date_local": "2026-03-15T15:29:52Z",
+    "type": "Tennis",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-15",
+    "distance": 1.9,
+    "elevation_gain": 0.0,
+    "id": "17732486501",
+    "moving_time": 11.0,
+    "name": "Sortie v\u00e9lo dans l'apr\u00e8s-midi",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-15T15:41:05Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-15",
+    "distance": 5.3,
+    "elevation_gain": 0.0,
+    "id": "17732493845",
+    "moving_time": 14.0,
+    "name": "Course \u00e0 pied dans l'apr\u00e8s-midi",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-15T15:41:49Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

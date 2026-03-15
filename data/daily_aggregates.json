@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T15:22:41.841109+00:00",
+  "generated_at": "2026-03-15T15:23:50.324074+00:00",
   "years": {
     "2022": {
       "Run": {
@@ -2243,6 +2243,17 @@
           "moving_time": 2791.0
         }
       },
+      "Ride": {
+        "2026-03-15": {
+          "activity_ids": [
+            "17732486501"
+          ],
+          "count": 1,
+          "distance": 1.9,
+          "elevation_gain": 0.0,
+          "moving_time": 11.0
+        }
+      },
       "Run": {
         "2026-01-02": {
           "activity_ids": [
@@ -2351,6 +2362,26 @@
           "distance": 7409.7,
           "elevation_gain": 37.8,
           "moving_time": 2981.0
+        },
+        "2026-03-15": {
+          "activity_ids": [
+            "17732493845"
+          ],
+          "count": 1,
+          "distance": 5.3,
+          "elevation_gain": 0.0,
+          "moving_time": 14.0
+        }
+      },
+      "Tennis": {
+        "2026-03-15": {
+          "activity_ids": [
+            "17732359859"
+          ],
+          "count": 1,
+          "distance": 20.1,
+          "elevation_gain": 0.0,
+          "moving_time": 9.0
         }
       }
     }
