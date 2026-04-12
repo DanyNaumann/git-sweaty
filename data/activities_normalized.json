@@ -3547,5 +3547,18 @@
     "start_date_local": "2026-04-01T20:57:21Z",
     "type": "Padel",
     "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 5080.9,
+    "elevation_gain": 6.7,
+    "id": "18070640835",
+    "moving_time": 2683.0,
+    "name": "Course \u00e0 pied en soir\u00e9e",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-11T20:19:11Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

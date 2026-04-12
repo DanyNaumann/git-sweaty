@@ -2456,6 +2456,15 @@
       "type": "Padel",
       "url": "https://www.strava.com/activities/17942369334",
       "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 20,
+      "name": "Course \u00e0 pied en soir\u00e9e",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18070640835",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4856,6 +4865,15 @@
           "distance": 5.3,
           "elevation_gain": 0.0,
           "moving_time": 14.0
+        },
+        "2026-04-11": {
+          "activity_ids": [
+            "18070640835"
+          ],
+          "count": 1,
+          "distance": 5080.9,
+          "elevation_gain": 6.7,
+          "moving_time": 2683.0
         }
       },
       "Tennis": {
@@ -4871,7 +4889,7 @@
       }
     }
   },
-  "generated_at": "2026-04-11T15:27:52.240322+00:00",
+  "generated_at": "2026-04-12T15:31:37.836668+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/104804543",
   "repo": "DanyNaumann/git-sweaty",
