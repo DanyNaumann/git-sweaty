@@ -3573,5 +3573,31 @@
     "start_date_local": "2026-04-12T20:21:40Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 3272.7,
+    "elevation_gain": 0.0,
+    "id": "18135901480",
+    "moving_time": 1574.0,
+    "name": "Course \u00e0 pied en soir\u00e9e",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-16T20:05:33Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 2517.6,
+    "elevation_gain": 0.0,
+    "id": "18137313130",
+    "moving_time": 6908.0,
+    "name": "Padel de nuit",
+    "raw_activity_type": "Workout",
+    "raw_type": "Padel",
+    "start_date_local": "2026-04-16T21:06:13Z",
+    "type": "Padel",
+    "year": 2026
   }
 ]

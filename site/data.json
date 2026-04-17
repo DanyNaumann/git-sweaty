@@ -2474,6 +2474,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18083986872",
       "year": 2026
+    },
+    {
+      "date": "2026-04-16",
+      "hour": 20,
+      "name": "Course \u00e0 pied en soir\u00e9e",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18135901480",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-16",
+      "hour": 21,
+      "name": "Padel de nuit",
+      "subtype": "Padel",
+      "type": "Padel",
+      "url": "https://www.strava.com/activities/18137313130",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4744,6 +4762,15 @@
           "distance": 2174.3,
           "elevation_gain": 0.0,
           "moving_time": 3643.0
+        },
+        "2026-04-16": {
+          "activity_ids": [
+            "18137313130"
+          ],
+          "count": 1,
+          "distance": 2517.6,
+          "elevation_gain": 0.0,
+          "moving_time": 6908.0
         }
       },
       "Ride": {
@@ -4892,6 +4919,15 @@
           "distance": 4489.1,
           "elevation_gain": 10.8,
           "moving_time": 1766.0
+        },
+        "2026-04-16": {
+          "activity_ids": [
+            "18135901480"
+          ],
+          "count": 1,
+          "distance": 3272.7,
+          "elevation_gain": 0.0,
+          "moving_time": 1574.0
         }
       },
       "Tennis": {
@@ -4907,7 +4943,7 @@
       }
     }
   },
-  "generated_at": "2026-04-16T16:18:23.116804+00:00",
+  "generated_at": "2026-04-17T15:55:14.305791+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/104804543",
   "repo": "DanyNaumann/git-sweaty",
