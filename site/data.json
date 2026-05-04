@@ -2492,6 +2492,24 @@
       "type": "Padel",
       "url": "https://www.strava.com/activities/18137313130",
       "year": 2026
+    },
+    {
+      "date": "2026-04-30",
+      "hour": 8,
+      "name": "Course \u00e0 pied le matin",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18362172666",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-04",
+      "hour": 8,
+      "name": "Course \u00e0 pied le matin",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18368228883",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4928,6 +4946,24 @@
           "distance": 3272.7,
           "elevation_gain": 0.0,
           "moving_time": 1574.0
+        },
+        "2026-04-30": {
+          "activity_ids": [
+            "18362172666"
+          ],
+          "count": 1,
+          "distance": 4742.7,
+          "elevation_gain": 15.1,
+          "moving_time": 1804.0
+        },
+        "2026-05-04": {
+          "activity_ids": [
+            "18368228883"
+          ],
+          "count": 1,
+          "distance": 6037.9,
+          "elevation_gain": 18.4,
+          "moving_time": 2307.0
         }
       },
       "Tennis": {
@@ -4943,7 +4979,7 @@
       }
     }
   },
-  "generated_at": "2026-05-03T15:41:12.855524+00:00",
+  "generated_at": "2026-05-04T16:28:12.749066+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/104804543",
   "repo": "DanyNaumann/git-sweaty",
