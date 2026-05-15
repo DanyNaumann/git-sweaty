@@ -2528,6 +2528,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18456647072",
       "year": 2026
+    },
+    {
+      "date": "2026-05-14",
+      "hour": 20,
+      "name": "Marche en soir\u00e9e",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18508137042",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-15",
+      "hour": 17,
+      "name": "Marche dans l'apr\u00e8s-midi",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18518207005",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5013,11 +5031,29 @@
           "distance": 1588.7,
           "elevation_gain": 0.0,
           "moving_time": 1446.0
+        },
+        "2026-05-14": {
+          "activity_ids": [
+            "18508137042"
+          ],
+          "count": 1,
+          "distance": 2344.8,
+          "elevation_gain": 0.0,
+          "moving_time": 2198.0
+        },
+        "2026-05-15": {
+          "activity_ids": [
+            "18518207005"
+          ],
+          "count": 1,
+          "distance": 2165.3,
+          "elevation_gain": 0.0,
+          "moving_time": 1919.0
         }
       }
     }
   },
-  "generated_at": "2026-05-14T16:57:34.524596+00:00",
+  "generated_at": "2026-05-15T16:48:17.711026+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/104804543",
   "repo": "DanyNaumann/git-sweaty",
