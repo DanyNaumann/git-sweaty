@@ -2564,6 +2564,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18551402441",
       "year": 2026
+    },
+    {
+      "date": "2026-05-18",
+      "hour": 19,
+      "name": "Marche en soir\u00e9e",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18558462518",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5085,11 +5094,20 @@
           "distance": 1615.0,
           "elevation_gain": 0.0,
           "moving_time": 1468.0
+        },
+        "2026-05-18": {
+          "activity_ids": [
+            "18558462518"
+          ],
+          "count": 1,
+          "distance": 2191.9,
+          "elevation_gain": 0.0,
+          "moving_time": 2036.0
         }
       }
     }
   },
-  "generated_at": "2026-05-18T17:27:55.955589+00:00",
+  "generated_at": "2026-05-19T17:36:22.457561+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/104804543",
   "repo": "DanyNaumann/git-sweaty",
