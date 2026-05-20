@@ -3716,5 +3716,31 @@
     "start_date_local": "2026-05-18T19:49:43Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 1634.4,
+    "elevation_gain": 0.0,
+    "id": "18571806210",
+    "moving_time": 1444.0,
+    "name": "Marche en soir\u00e9e",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-19T19:46:24Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 1970.2,
+    "elevation_gain": 0.0,
+    "id": "18573410252",
+    "moving_time": 1956.0,
+    "name": "Marche de nuit",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-19T21:44:06Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
