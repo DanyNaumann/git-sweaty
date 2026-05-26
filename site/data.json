@@ -2627,6 +2627,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18639850934",
       "year": 2026
+    },
+    {
+      "date": "2026-05-25",
+      "hour": 20,
+      "name": "Marche en soir\u00e9e",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18651793453",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-25",
+      "hour": 21,
+      "name": "Course \u00e0 pied de nuit",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18652769798",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5099,6 +5117,15 @@
           "distance": 7025.7,
           "elevation_gain": 31.3,
           "moving_time": 2675.0
+        },
+        "2026-05-25": {
+          "activity_ids": [
+            "18652769798"
+          ],
+          "count": 1,
+          "distance": 6624.0,
+          "elevation_gain": 17.3,
+          "moving_time": 2645.0
         }
       },
       "Tennis": {
@@ -5203,11 +5230,20 @@
           "distance": 1794.7,
           "elevation_gain": 0.0,
           "moving_time": 1788.0
+        },
+        "2026-05-25": {
+          "activity_ids": [
+            "18651793453"
+          ],
+          "count": 1,
+          "distance": 1747.9,
+          "elevation_gain": 0.0,
+          "moving_time": 1521.0
         }
       }
     }
   },
-  "generated_at": "2026-05-25T17:03:29.698924+00:00",
+  "generated_at": "2026-05-26T17:53:43.314499+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/104804543",
   "repo": "DanyNaumann/git-sweaty",
