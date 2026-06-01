@@ -3833,5 +3833,18 @@
     "start_date_local": "2026-05-26T20:27:27Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-01",
+    "distance": 773.0,
+    "elevation_gain": 4.3,
+    "id": "18737953317",
+    "moving_time": 312.0,
+    "name": "Oh la cheville !",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-01T08:31:16Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

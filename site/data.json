@@ -2654,6 +2654,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18666018683",
       "year": 2026
+    },
+    {
+      "date": "2026-06-01",
+      "hour": 8,
+      "name": "Oh la cheville !",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18737953317",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5135,6 +5144,15 @@
           "distance": 6624.0,
           "elevation_gain": 17.3,
           "moving_time": 2645.0
+        },
+        "2026-06-01": {
+          "activity_ids": [
+            "18737953317"
+          ],
+          "count": 1,
+          "distance": 773.0,
+          "elevation_gain": 4.3,
+          "moving_time": 312.0
         }
       },
       "Tennis": {
@@ -5261,7 +5279,7 @@
       }
     }
   },
-  "generated_at": "2026-05-31T16:01:50.613830+00:00",
+  "generated_at": "2026-06-01T19:53:44.744693+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/104804543",
   "repo": "DanyNaumann/git-sweaty",
