@@ -2672,6 +2672,33 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18811691599",
       "year": 2026
+    },
+    {
+      "date": "2026-06-15",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18925442870",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-15",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18925554341",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-15",
+      "hour": 16,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18930111717",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4962,6 +4989,16 @@
           "distance": 1.9,
           "elevation_gain": 0.0,
           "moving_time": 11.0
+        },
+        "2026-06-15": {
+          "activity_ids": [
+            "18925442870",
+            "18930111717"
+          ],
+          "count": 2,
+          "distance": 5596.6,
+          "elevation_gain": 27.5,
+          "moving_time": 1917.0
         }
       },
       "Run": {
@@ -5162,6 +5199,15 @@
           "distance": 773.0,
           "elevation_gain": 4.3,
           "moving_time": 312.0
+        },
+        "2026-06-15": {
+          "activity_ids": [
+            "18925554341"
+          ],
+          "count": 1,
+          "distance": 2434.7,
+          "elevation_gain": 0.0,
+          "moving_time": 922.0
         }
       },
       "Tennis": {
@@ -5297,7 +5343,7 @@
       }
     }
   },
-  "generated_at": "2026-06-14T16:17:37.932013+00:00",
+  "generated_at": "2026-06-15T19:01:07.656527+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/104804543",
   "repo": "DanyNaumann/git-sweaty",
